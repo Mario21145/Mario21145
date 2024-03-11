@@ -4,9 +4,13 @@
 
 <p align="left">A passionate programmer, always eager to dive into new technologies and explore the possibilities of code.</p>
 
-<br clear="both">
+###
 
 <img align="left" height="155" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+<br clear="both">
 
 <div align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=Mario21145&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
