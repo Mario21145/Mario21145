@@ -4,12 +4,6 @@
 
 <p align="left">A passionate programmer, always eager to dive into new technologies and explore the possibilities of code.</p>
 
-###
-
-<img align="left" height="155" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
 <br clear="both">
 
 <div align="right">
