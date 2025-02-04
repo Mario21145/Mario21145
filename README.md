@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Passionate programmer, always eager to dive into new technologies and explore the possibilities of code.<br><br>- 🌱 I’m currently learning react<br><br>- 👯 I’m looking to collaborate on android and website projects<br><br>- 💬 Ask me about kotlin<br><br>- 📫 How to reach me mariomazziotti756@gmail.com</p>
+<p align="left">Passionate programmer, always eager to dive into new technologies and explore the possibilities of code.<br><br>- 🌱 I’m currently in a university<br><br>- 👯 I’m looking to collaborate on android and website projects<br><br>- 💬 Ask me about kotlin<br><br>- 📫 How to reach me mariomazziotti756@gmail.com</p>
 
 ###
 
